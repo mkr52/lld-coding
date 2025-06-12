@@ -1,4 +1,4 @@
-package com.mkr.ir.lld.rate_limiter.models;
+package com.mkr.ir.lld.rate_limiter.server.models;
 
 import java.util.concurrent.TimeUnit;
 

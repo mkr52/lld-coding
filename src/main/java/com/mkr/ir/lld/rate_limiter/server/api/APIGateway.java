@@ -1,9 +1,9 @@
-package com.mkr.ir.lld.rate_limiter.api;
+package com.mkr.ir.lld.rate_limiter.server.api;
 
-import com.mkr.ir.lld.rate_limiter.controller.RateLimiter;
-import com.mkr.ir.lld.rate_limiter.controller.ServiceConfig;
-import com.mkr.ir.lld.rate_limiter.models.ServiceConfiguration;
-import com.mkr.ir.lld.rate_limiter.request.UpdateRequest;
+import com.mkr.ir.lld.rate_limiter.server.controller.RateLimiter;
+import com.mkr.ir.lld.rate_limiter.server.controller.ServiceConfig;
+import com.mkr.ir.lld.rate_limiter.server.models.ServiceConfiguration;
+import com.mkr.ir.lld.rate_limiter.server.request.UpdateRequest;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;

@@ -1,4 +1,4 @@
-package com.mkr.ir.lld.rate_limiter.request;
+package com.mkr.ir.lld.rate_limiter.server.request;
 
 public abstract class Request {
 

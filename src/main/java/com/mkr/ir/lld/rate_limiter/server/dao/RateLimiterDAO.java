@@ -1,4 +1,4 @@
-package com.mkr.ir.lld.rate_limiter.dao;
+package com.mkr.ir.lld.rate_limiter.server.dao;
 
 import java.util.concurrent.CompletableFuture;
 

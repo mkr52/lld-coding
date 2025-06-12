@@ -1,4 +1,4 @@
-package com.mkr.ir.lld.rate_limiter.database;
+package com.mkr.ir.lld.rate_limiter.server.database;
 
 import java.util.List;
 

@@ -1,8 +1,7 @@
-package com.mkr.ir.lld.rate_limiter.controller;
+package com.mkr.ir.lld.rate_limiter.server.controller;
 
-import com.mkr.ir.lld.rate_limiter.dao.RateLimiterDAO;
-import com.mkr.ir.lld.rate_limiter.dao.ServiceConfigDAO;
-import com.mkr.ir.lld.rate_limiter.models.ServiceConfiguration;
+import com.mkr.ir.lld.rate_limiter.server.dao.ServiceConfigDAO;
+import com.mkr.ir.lld.rate_limiter.server.models.ServiceConfiguration;
 
 import java.util.concurrent.CompletableFuture;
 
